@@ -2,8 +2,6 @@
 
 ### An Energy-Efficient Extension of Near-Optimal Sensor Placement for Stochastic Target Detection
 
-![Project Poster](poster.png)
-
 ---
 
 ## Overview
