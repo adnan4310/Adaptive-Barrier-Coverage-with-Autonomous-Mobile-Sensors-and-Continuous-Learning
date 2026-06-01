@@ -228,33 +228,6 @@ Optimal sensor locations from previous research become charging dock locations.
 
 ---
 
-## Repository Structure
-
-```text
-Adaptive-Barrier-Coverage/
-│
-├── README.md
-├── report/
-│   └── final_report.pdf
-│
-├── figures/
-│   ├── deployment.png
-│   ├── energy_results.png
-│   ├── learning_curve.png
-│   └── poster.png
-│
-├── simulation/
-│   ├── deployment.py
-│   ├── learning.py
-│   ├── scheduler.py
-│   └── optimization.py
-│
-└── docs/
-    └── presentation.pdf
-```
-
----
-
 ## Future Work
 
 - Integration with real AIS vessel traffic data
